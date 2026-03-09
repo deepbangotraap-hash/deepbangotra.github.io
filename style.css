@@ -1,0 +1,58 @@
+
+body{
+font-family: Georgia, 'Times New Roman', serif;
+margin:0;
+background:#f8f9fb;
+color:#222;
+}
+
+header{
+background:#8C1515;
+color:white;
+padding:30px 0;
+}
+
+.container{
+width:85%;
+margin:auto;
+}
+
+nav{
+margin-top:10px;
+}
+
+nav a{
+color:white;
+margin-right:20px;
+text-decoration:none;
+font-weight:bold;
+}
+
+.hero{
+padding:60px 0;
+background:white;
+}
+
+h1,h2,h3{
+font-weight:600;
+}
+
+section{
+padding:50px 0;
+}
+
+footer{
+background:#111;
+color:white;
+text-align:center;
+padding:20px;
+margin-top:40px;
+}
+
+.card{
+background:white;
+padding:25px;
+margin:15px 0;
+border-radius:6px;
+box-shadow:0 2px 6px rgba(0,0,0,0.08);
+}
